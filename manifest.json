@@ -1,0 +1,9 @@
+{
+  "Language": "js",
+  "Plugins": [
+    "html-report",
+    "flash",
+    "spectacle"
+  ],
+  "EnvironmentDir": ""
+}
